@@ -23,7 +23,7 @@ The platform is the Unitree **Go2** quadruped, with a custom launcher mounted on
 ## System Architecture
 
 <div align="center">
-  <img src="assets/system_architecture.png" width="100%" alt="System Architecture">
+  <img width="2160" height="1350" alt="system_architecture" src="https://github.com/user-attachments/assets/2d501415-4540-4c4a-b274-d349d9b38136" />
 </div>
 
 The full pipeline runs in three stages.
@@ -37,7 +37,7 @@ The full pipeline runs in three stages.
 ## Robot Hardware
 
 <div align="center">
-  <img src="assets/robot_hardware.png" width="320" alt="Robot Hardware">
+  <img width="200" height="400" alt="robot_hardware" src="https://github.com/user-attachments/assets/158750ca-c7ff-42b7-ac95-ddb3343a47d4" />
 </div>
 
 The launcher is designed to store and release a throwable extinguisher. By combining a **gravity-drop** mechanism with a **mechanical push-out**, it achieves stable, reliable deployment with a simple structure. The compact design is built with Go2 mounting in mind.
@@ -56,7 +56,8 @@ The launcher is designed to store and release a throwable extinguisher. By combi
 ## Fire Search — VLFM (Vision-Language Frontier Map)
 
 <div align="center">
-  <img src="assets/vlfm_input.png" width="100%" alt="VLFM Input Panels"><br>
+  <img width="1600" height="533" alt="vlfm_input" src="https://github.com/user-attachments/assets/e3a28412-a83e-4be7-a36d-2ef32c5b9533" />
+
   <sub>Left: brightest frame seen while moving · Center: current camera view · Right: current map state</sub>
 </div>
 
