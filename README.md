@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="assets/roi_logo.png" width="180" alt="R.O.I"/>
+<img width="576" height="1000" alt="robot_hardware" src="https://github.com/user-attachments/assets/7332857d-b679-4eca-a46d-15f1e04cc2f7" /><div align="center">
+  
 
   # Fire Suppression & Autonomous Quadruped Robot
 
