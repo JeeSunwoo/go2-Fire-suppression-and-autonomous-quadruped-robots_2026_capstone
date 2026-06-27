@@ -1,6 +1,5 @@
 <div align="center">
-<img width="280" height="400" alt="robot_hardware" src="https://github.com/user-attachments/assets/7332857d-b679-4eca-a46d-15f1e04cc2f7" /><div align="center">
-  
+  <img width="1084" height="853" alt="image" src="https://github.com/user-attachments/assets/e77cd3aa-2df5-48d4-8e23-a952c47276be" />
 
   # Fire Suppression & Autonomous Quadruped Robot
 
@@ -38,8 +37,8 @@ The full pipeline runs in three stages.
 ## Robot Hardware
 
 <div align="center">
-  <img src="assets/robot_hardware.png" width="340" alt="Robot Hardware"/>
-</div>
+  <img width="280" height="400" alt="robot_hardware" src="https://github.com/user-attachments/assets/7332857d-b679-4eca-a46d-15f1e04cc2f7" /><div align="center">
+  
 
 The launcher is designed to store and release a throwable extinguisher. By combining a **gravity-drop** mechanism with a **mechanical push-out**, it achieves stable, reliable deployment with a simple structure. The compact design is built with Go2 mounting in mind.
 
