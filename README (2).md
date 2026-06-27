@@ -193,11 +193,6 @@ ros2 run vlfm_nav vlfm_source_nav --execute --save-debug
 
 ---
 
-## License
-
-This repository contains original project code developed by **Team R.O.I**. External dependencies (Unitree ROS2, Hesai LiDAR ROS Driver, and Intel RealSense ROS) remain the property of their respective authors and are distributed under their own licenses.
-
----
 
 <div align="center">
   <sub>© 2026 Team R.O.I, Kwangwoon University</sub>
