@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e77cd3aa-2df5-48d4-8e23-a952c47276be" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e77cd3aa-2df5-48d4-8e23-a952c47276be" />
 
   # Fire Suppression & Autonomous Quadruped Robot
 
