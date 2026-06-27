@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="assets/roi_logo.png" width="170" alt="R.O.I"><br><br>
+  <img width="1084" height="853" alt="image" src="https://github.com/user-attachments/assets/b20a4558-cf35-4ec5-b6b9-bb19dd27229f" />
+
   <h1>Fire Suppression &amp; Autonomous Quadruped Robot</h1>
   <p>
     <b>Team R.O.I</b> · Kwangwoon University<br>
