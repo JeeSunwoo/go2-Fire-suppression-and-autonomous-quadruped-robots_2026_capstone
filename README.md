@@ -193,6 +193,10 @@ export ANTHROPIC_API_KEY="<your-api-key>"
 ros2 run vlfm_nav vlfm_source_nav --execute --save-debug
 ```
 
+
+https://github.com/user-attachments/assets/f313926d-b661-4ec1-958c-0d75ae01ae88
+
+
 ---
 
 
