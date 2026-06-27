@@ -1,3 +1,4 @@
+<div align="center">
 <img width="280" height="400" alt="robot_hardware" src="https://github.com/user-attachments/assets/7332857d-b679-4eca-a46d-15f1e04cc2f7" /><div align="center">
   
 
