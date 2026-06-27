@@ -24,8 +24,8 @@ The platform is the Unitree **Go2** quadruped, with a custom launcher mounted on
 ## System Architecture
 
 <div align="center">
-  <img src="assets/system_architecture.png" width="100%" alt="System Architecture"/>
-</div>
+  <img width="2160" height="1350" alt="system_architecture" src="https://github.com/user-attachments/assets/055e2a67-4288-4d08-94af-10c76efcabf3" />
+
 
 The full pipeline runs in three stages.
 
