@@ -56,7 +56,8 @@ The launcher is designed to store and release a throwable extinguisher. By combi
 ## Fire Search — VLFM (Vision-Language Frontier Map)
 
 <div align="center">
-  <img src="assets/vlfm_input.png" width="100%" alt="VLFM Input Panels"/>
+  <img width="1600" height="533" alt="vlfm_input" src="https://github.com/user-attachments/assets/01bb356d-e826-4adc-b6ed-f910f9103b41" />
+
   <br>
   <sub>Left: brightest frame seen while moving · Center: current camera view · Right: current map state</sub>
 </div>
