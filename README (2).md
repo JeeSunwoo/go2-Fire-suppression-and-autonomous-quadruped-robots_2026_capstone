@@ -37,7 +37,7 @@ The full pipeline runs in three stages.
 ## Robot Hardware
 
 <div align="center">
-  <img width="200" height="400" alt="robot_hardware" src="https://github.com/user-attachments/assets/158750ca-c7ff-42b7-ac95-ddb3343a47d4" />
+  <img width="300" height="400" alt="robot_hardware" src="https://github.com/user-attachments/assets/158750ca-c7ff-42b7-ac95-ddb3343a47d4" />
 </div>
 
 The launcher is designed to store and release a throwable extinguisher. By combining a **gravity-drop** mechanism with a **mechanical push-out**, it achieves stable, reliable deployment with a simple structure. The compact design is built with Go2 mounting in mind.
